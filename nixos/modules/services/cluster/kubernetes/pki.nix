@@ -143,7 +143,7 @@ in
             default = {
               usages = ["digital signature"];
               auth_key = "default";
-              expiry = "720h";
+              expiry = "43800h";
             };
           };
         };
